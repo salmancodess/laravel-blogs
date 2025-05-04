@@ -18,4 +18,4 @@ The implementation follows good UX principles, emphasizing readability, accessib
 This blog page serves as a solid foundation for any personal or portfolio blog, demonstrating both front-end design skills and responsiveness best practices.
 
 
-[![Watch the video](https://img.youtube.com/vi/"C:\Users\dell\Videos\Captures\blogvideo.mp4"/0.jpg)]
+[![video](https:"C:\Users\dell\Videos\Captures\blogvideo.mp4")]
