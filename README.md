@@ -1,5 +1,5 @@
-# Blog application
-
+# Blog application  
+Task: 1
 # set a project need.
  1.PHP
  2.Composer - package dependency
@@ -16,6 +16,4 @@ Built using Bootstrap, the layout automatically adjusts to different screen size
 A key feature of the interface is the dark mode toggle, which enhances visual comfort during low-light conditions and caters to user preferences. 
 The implementation follows good UX principles, emphasizing readability, accessibility, and intuitive navigation. 
 This blog page serves as a solid foundation for any personal or portfolio blog, demonstrating both front-end design skills and responsiveness best practices.
-
-[Watch Video](https:"C:\Users\dell\Videos\Captures\blogvideo.mp4")
 
