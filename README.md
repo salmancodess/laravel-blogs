@@ -17,4 +17,5 @@ A key feature of the interface is the dark mode toggle, which enhances visual co
 The implementation follows good UX principles, emphasizing readability, accessibility, and intuitive navigation. 
 This blog page serves as a solid foundation for any personal or portfolio blog, demonstrating both front-end design skills and responsiveness best practices.
 
-![video alt](https://github.com/salmancodess/laravel-blogs/blob/83e7e922501ba22e909d5be3ac9a3f445b714c74/blogvideo.mp4);
+
+[Download demo video](https://github.com/salmancodess/laravel-blogs/blob/83e7e922501ba22e909d5be3ac9a3f445b714c74/blogvideo.mp4)
